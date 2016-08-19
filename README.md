@@ -8,10 +8,10 @@ All plastic parts and the assembly are designed in Fusion360 CAD.
 
 
 ## Background
-I wanted to create a 3D printer with:
-*	Design similar to Prusa I3  
-*	Scalable dimensions, from smaller of the standard Prusa i3 up to 1.5 meter or more
-*	More Robust 
+I wanted to create a 3D printer with:  
+*	Design similar to Prusa I3    
+*	Scalable dimensions, from smaller of the standard Prusa i3 up to 1.5 meter or more  
+*	More Robust   
 
 
 ## Design tools
