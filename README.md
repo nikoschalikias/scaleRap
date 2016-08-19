@@ -1,7 +1,7 @@
 # nixal_reprap4040 #
 
-A scale-able Reprap 3D printer based on aluminium profile 4040.  
-All plastic parts and the assembly are designed in a Fusion360 CAD.
+A scale-able open-hardware Reprap 3D printer based on aluminium profile 4040.  
+All plastic parts and the assembly are designed in Fusion360 CAD.
 
 
 
