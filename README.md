@@ -1,0 +1,32 @@
+# nixal_reprap4040 #
+
+A scale-able Reprap 3D printer based on aluminium profile 4040.  
+All plastic parts and the assembly are designed in a Fusion360 CAD.
+
+
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
