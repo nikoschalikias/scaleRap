@@ -3,24 +3,9 @@
 
 ![nixal i3](nixal_reprap4040_asm.jpg "nixal_reprap4040 3D printer")  
 
-A scale-able open-hardware Reprap 3D printer based on aluminium profile 4040.  
+A scale-able and robust  open-hardware Reprap 3D printer based on aluminium profile 4040.  
 All plastic parts and the assembly are designed in Fusion360 CAD.
 
-
-## Background
-I wanted to create a 3D printer with:  
-*	Design similar to Prusa I3    
-*	Scalable dimensions, from smaller of the standard Prusa i3 up to 1.5 meter or more  
-*	More Robust   
-
-
-## Design tools
-Design with OpenScad makes the design absolutelly open and portable  
-but there is a major drawback:  
-OpenScad is not a CAD, it is a scripting system, describing the solids with text.  
-So it doesn't work good (...for me) for visualizing and creating more complex designs.  
-Fusion360 is a  CAD with good capabilities and free usage if you register as a maker or student.  
-So the project is open. Not everyone is comfortable with Fusion360 as with OpenScad, but ...
 
 
 
