@@ -2,7 +2,7 @@
 
 A scalable and robust open-hardware Reprap 3D printer based on aluminium profile 4040.
 
-Everything is designed in Fusion 360 CAD.  
+Everything is designed in Fusion 360 CAD. All parts in Fusion360 and STL format.
 
 ![nixal i3](nixal_reprap4040_asm5_basketballs.jpg "nixal_reprap4040 3D printer")  
 ![nixal i3](nixal_reprap4040_asm.jpg "nixal_reprap4040 3D printer")  
